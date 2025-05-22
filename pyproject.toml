@@ -6,7 +6,7 @@ authors = [
     {name = "Ekaterina Karelova",email = "kulibinka1987@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13,<4.0"
+requires-python = ">=3.12,<4.0"
 dependencies = [
     "selene (==2.0.0rc9)",
     "pytest (==8.3.5)"
